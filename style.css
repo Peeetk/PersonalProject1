@@ -34,7 +34,7 @@ p {font-size: 20px;
 }
 
 #banner {
-  background-image: url("../assets/bright-daylight-environment-forest-240040-1\ \(1\).jpg");
+  background-image: url("../bright-daylight-environment-forest-240040-1\ \(1\).jpg");
   background-size: cover;
   background-position: center;
   height: 200px;
@@ -45,7 +45,7 @@ p {font-size: 20px;
 }
 
 #myself {
-      background-image: url("../assets/ME.jpg");
+      background-image: url("../ME.jpg");
       height: 200px;
       width: 200px;
       background-size:cover ;
@@ -65,7 +65,7 @@ p {font-size: 20px;
 
 }
 body {background-color: cornflowerblue;
-      background-image: url(../assets/backgroundMain.jpg);
+      background-image: url(../backgroundMain.jpg);
       background-size: cover;
       
 
